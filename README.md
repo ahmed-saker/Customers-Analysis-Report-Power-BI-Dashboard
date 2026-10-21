@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard connected to a database, designed to analyze B2B customer bookings in the travel & hospitality industry. It gives a complete view of booking performance, customer behavior, and demand patterns across markets and properties.
 
-![Dashboard Preview]([images/overview.png](https://github.com/ahmed-saker/Customers-Analysis-Report-Power-BI-Dashboard/blob/main/Customers%20Analysis%20Reprot.pdf))
+![Dashboard Preview]https://github.com/ahmed-saker/Customers-Analysis-Report-Power-BI-Dashboard/blob/main/Customers%20Analysis%20Reprot.pdf
 
 ---
 
